@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thumbsup</folder>
+	<filename>WhatsApp Image 2024-04-20 at 21.16.37_dcf1b651.jpg</filename>
+	<path>C:\work\github\TFODCourse\Tensorflow\workspace\images\collectedimages\thumbsup\WhatsApp Image 2024-04-20 at 21.16.37_dcf1b651.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2472</width>
+		<height>3296</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ThumbsUp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>308</xmin>
+			<ymin>1357</ymin>
+			<xmax>924</xmax>
+			<ymax>2367</ymax>
+		</bndbox>
+	</object>
+</annotation>
