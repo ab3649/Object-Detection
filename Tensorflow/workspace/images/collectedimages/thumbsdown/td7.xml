@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thumbsdown</folder>
+	<filename>td7.jpg</filename>
+	<path>C:\yt\TFODCourse-main\Tensorflow\workspace\images\collectedimages\thumbsdown\td7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2472</width>
+		<height>3296</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>td7</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>730</ymin>
+			<xmax>787</xmax>
+			<ymax>1773</ymax>
+		</bndbox>
+	</object>
+</annotation>
