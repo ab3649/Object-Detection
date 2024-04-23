@@ -1,0 +1,26 @@
+<annotation>
+	<folder>livelong</folder>
+	<filename>ll5.jpg</filename>
+	<path>C:\yt\TFODCourse-main\Tensorflow\workspace\images\collectedimages\livelong\ll5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2472</width>
+		<height>3296</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ll5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1401</xmin>
+			<ymin>1330</ymin>
+			<xmax>2080</xmax>
+			<ymax>2502</ymax>
+		</bndbox>
+	</object>
+</annotation>
